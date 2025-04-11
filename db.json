@@ -8,9 +8,10 @@
       "createdAt": "2024-04-01T10:00:00Z",
       "modifiedAt": "2024-04-02T12:00:00Z",
       "tags": ["học tập", "flutter"],
-      "color": "#2196F3"
+      "color": "#2196F3",
+      "userId": 1
     },
-   {
+    {
       "id": 2,
       "title": "Học Tiếng Anh",
       "content": "Học Tiếng Anh tại Duolingo trong vòng 60 phút.",
@@ -18,7 +19,8 @@
       "createdAt": "2024-04-03T08:30:00Z",
       "modifiedAt": "2024-04-03T09:00:00Z",
       "tags": ["học tập", "English"],
-      "color": "#0000FF"
+      "color": "#0000FF",
+      "userId": 1
     },
     {
       "id": 3,
@@ -28,9 +30,10 @@
       "createdAt": "2024-04-03T08:30:00Z",
       "modifiedAt": "2024-04-03T09:00:00Z",
       "tags": ["học tập", "figma"],
-      "color": "#9900FF"
+      "color": "#9900FF",
+      "userId": 2
     },
-     {
+    {
       "id": 4,
       "title": "Đi Chợ",
       "content": "Mua Thịt và Rau.",
@@ -38,7 +41,8 @@
       "createdAt": "2024-04-03T08:30:00Z",
       "modifiedAt": "2024-04-03T09:00:00Z",
       "tags": ["đi chợ", "thịt"],
-      "color": "#00EE00"
+      "color": "#00EE00",
+      "userId": 3
     }
   ],
   "accounts": [
